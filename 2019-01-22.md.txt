@@ -1,0 +1,36 @@
+
+Möte 0
+start: 13:40
+slut: 16:10
+
+
+Jimmy
+datavetenskap GU
+Matte, programmering
+
+Jhon Sandel
+datavetenskap GU
+mjukvara, 
+
+Gustav
+datateknik
+mjukvara, maskinnära
+
+Rasmus
+IT
+mjukvara, maskinnära, matte
+
+Christoffer
+Elektro
+elektronik, kretskort, programmering, jobbar som embedded utvecklare
+
+
+
+Betygsambition: Viktigast att bli godkänd, gärna högt betyg men kommer inte sitta 10h extra för det
+Jobba på helger: helt ok
+Timmar per vecka: ca 20 timmar
+
+
+
+All tid som läggs på projektet ska loggas.
+Om man 
