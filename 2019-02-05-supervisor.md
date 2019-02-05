@@ -1,6 +1,6 @@
 # Meeting \#5-Supervisor
 Start: 11:00 \
-Slut: XX:XX \
+Slut: 12:00 \
 Datum: 2019-02-05
 
 ## Report
