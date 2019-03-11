@@ -1,0 +1,27 @@
+# Möte \11
+Start: 09:00 \
+Slut: 11:45 \
+Datum: 2019-03-11
+
+## Disusionsområde
+### Förra veckan
+* Mech
+  - Ritning till kontroller caddad.
+  - Olof har nu behörighet att printa på CRF
+* Hårdvara
+  - Kretskort designat utifrån ritningen.
+  - Krets designad som möjliggör flera funktioner för en knapp (tryck en gång vs håll inne X sekunder).
+  - energiförbrukning har mätits på vår kontroller samt 8bitDo kontrollern.
+  - Vår energiförbrukning verkar väldigt låg, 500 till 1000 gånger lägre än för 8bitDo kontrollern.
+* Mjukvara
+  - Pullups avaktiverade, vilket avsiktligt minskar energiförbrukning
+
+### Hur vi ligger till
+* Själva konstruktionen av kontrollern går bra
+* Rapporten behöver vi jobba på 
+* Assembly av kontrollern (hårdvara+skal) sker tidigast om 2 veckor
+
+### Hur mycket folk tänkt jobba under tentaveckan
+* Kristoffer och Gustav jobbar på som vanligt
+* Jhon och Jimmy jobbar mindre då de har tenta
+* Olof jobbar extra då han inte har tenta
